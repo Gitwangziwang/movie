@@ -19,8 +19,6 @@ User
 Movie
 * 上映预告
 Preview
-* 管理员
-Admin
 * 评论、收藏
 Comment、Moviecol
 
